@@ -2,6 +2,7 @@ body {
 	background-color: #404040;
 	color: blue;
 	font-family: "Georgia";
+
 	@-webkit-keyframes blinker {  
   from { opacity: 1.0; }
   to { opacity: 0.0; }
@@ -13,6 +14,7 @@ body {
   -webkit-animation-timing-function: cubic-bezier(.5, 0, 1, 1);
   -webkit-animation-duration: 1.7s; 
 }  
+
 }
 .country {
 	fill: #ccc;
