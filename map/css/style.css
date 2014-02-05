@@ -1,7 +1,7 @@
 body {
 	background-color: #404040;
-	color: white;
-	
+	color: blue;
+	font-family: "Georgia";
 }
 .country {
 	fill: #ccc;
@@ -16,7 +16,6 @@ body {
 #content {
 	position: relative;
 	margin-left: 810px;
-	font-family: "Georgia";
 }
 
 #info {
@@ -24,5 +23,5 @@ body {
 	top: 0px;
 	left: 0px;
 	width: 800px;
-	font-family: "Georgia";
+
 }
