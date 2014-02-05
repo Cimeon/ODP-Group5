@@ -1,6 +1,6 @@
 var config = {};
 
-config.data_file = "data/population.csv";
+config.data_file = "map/population.csv";
 config.column_title = "Population";
 
 config.map_height = "400px";
