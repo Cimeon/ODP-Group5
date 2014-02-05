@@ -1,6 +1,11 @@
 body {
 	background-color: #404040;
 	color: white;
+	
+	{
+font-family:"Times New Roman",Georgia,Serif;
+}
+	
 }
 .country {
 	fill: #ccc;
